@@ -31,10 +31,5 @@ This project is a foundational Java application demonstrating the core structure
 * Shopping cart functionality.
 * Web interface.
 
-## Author
 
-* Your Name (or GitHub username)
 
-## License
-
-* (Optional: Add a license, such as MIT or Apache 2.0)
